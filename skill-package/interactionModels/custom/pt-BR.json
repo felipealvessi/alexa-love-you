@@ -1,0 +1,46 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "meu amor",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "WhatsThentenAbout",
+          "slots": [],
+          "samples": [
+            "o que faz essa intent",
+            "essa intenção é de que",
+            "sobre o que fala essa intent",
+            "sobre o que fala essa intenção"
+          ]
+        },
+        {
+          "name": "infoAboutCharacters",
+          "slots": [],
+          "samples": [
+            "nome da pessoa",
+            "quais as pessoas",
+            "me fala das pessoas"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "3"
+}
